@@ -1,0 +1,4 @@
+**xcuserdata**
+*.xccheckout
+Podfile.lock
+Example/Pods
